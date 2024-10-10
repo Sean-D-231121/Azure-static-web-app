@@ -1,0 +1,16 @@
+.sidebar{
+    margin: 0;
+    background-color: #FFBE98;
+    color: white;
+    width: 100%;
+}
+.sidebar-height{
+    height: 100vh
+}
+.sidebar-button{
+    background-color: #fdaf82 !important;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+}
+
